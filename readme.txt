@@ -1,3 +1,7 @@
+Run these 2 commands in command promt
+pip install pypdf2
+pip install pillow
+
 1. Don't delete 2 folders given but make sure to delete text files from both folders
 2. put your image files in input_images
 3. run image_to_pdf_convertor first to convert images to pdf
